@@ -5,6 +5,7 @@ A simple boilerplate for ExpressJS and Typescript
 - [x] NodeJS/Express
 - [x] TypeScript/TSConfig
 - [x] Prettier
+- [ ] Testing
 - [ ] CLI Tools
 - [ ] Dynamic Routing
 - [ ] Controllers
